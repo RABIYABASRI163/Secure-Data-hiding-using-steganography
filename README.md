@@ -1,5 +1,2 @@
-stego py need cv2 lib
-
-solution 
-
-pip install cv2
+import cv2 properly
+install python properly and add the path to it
