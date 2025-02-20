@@ -1,4 +1,5 @@
-# Secure-Data-hiding-using-steganography
-#import cv2 library
-#ensure that u install python path properly and add the path to environment
-#install idle properly
+stego py need cv2 lib
+
+solution 
+
+pip install cv2
